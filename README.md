@@ -1,6 +1,23 @@
 # SQL Study
 
 ----------------------------------------------
+## [2020-06-03]
+----------------------------------------------
+:dash: [SQL Study PDF](https://github.com/hyungtaik/SQL/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20_0603_sql%20Study.pdf)
+
+**[프로그래머스] LEVEL 2. 루시와 엘라 찾기**
+* https://programmers.co.kr/learn/courses/30/lessons/59046
+
+**[프로그래머스] 이름에 el이 들어가는 동물 찾기**
+* https://programmers.co.kr/learn/courses/30/lessons/59047
+
+**[프로그래머스] LEVEL 2. 중성화 여부 파악하기**
+* https://programmers.co.kr/learn/courses/30/lessons/59409
+
+**[프로그래머스] LEVEL 2. DATETIME에서 DATE로 형 변환**
+* https://programmers.co.kr/learn/courses/30/lessons/59414
+
+----------------------------------------------
 ## [2020-05-31]
 ----------------------------------------------
 :dash: [SQL Study PDF](https://github.com/hyungtaik/SQL/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20_0531_sql%20Study.pdf)
