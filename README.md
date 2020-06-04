@@ -1,6 +1,32 @@
 # SQL Study
 
 ----------------------------------------------
+## [2020-06-04]
+----------------------------------------------
+:dash: [SQL Study PDF](https://github.com/hyungtaik/SQL/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20_0604_sql%20Study.pdf)
+
+**[프로그래머스] LEVEL 3. 없어진 기록 찾기**
+* https://programmers.co.kr/learn/courses/30/lessons/59042
+
+**[프로그래머스] LEVEL 3. 있었는데요 없었습니다**
+* https://programmers.co.kr/learn/courses/30/lessons/59043
+
+**[프로그래머스] LEVEL 3. 오랜 기간 보호한 동물(1)**
+* https://programmers.co.kr/learn/courses/30/lessons/59044
+
+**[프로그래머스] LEVEL 3. 오랜 기간 보호한 동물(2)**
+* https://programmers.co.kr/learn/courses/30/lessons/59411
+
+**[프로그래머스] LEVEL 4. 입양 시각 구하기**
+* https://programmers.co.kr/learn/courses/30/lessons/59413
+
+**[프로그래머스] LEVEL 4. 보호소에서 중성화한 동물**
+* https://programmers.co.kr/learn/courses/30/lessons/59045
+
+**[프로그래머스] LEVEL 4. 우유와 요거트가 담긴 장바구니**
+* https://programmers.co.kr/learn/courses/30/lessons/62284
+
+----------------------------------------------
 ## [2020-06-03]
 ----------------------------------------------
 :dash: [SQL Study PDF](https://github.com/hyungtaik/SQL/blob/master/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/20_0603_sql%20Study.pdf)
